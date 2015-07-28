@@ -1,3 +1,29 @@
+**Note: This repository has been deprecated in favor of this new repository [grunt-phantomcss](https://github.com/micahgodbolt/grunt-phantomcss) also available on [npmjs](https://www.npmjs.com/package/@micahgodbolt/grunt-phantomcss).**
+
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # grunt-phantomcss
 
 > Automate CSS regression testing with PhantomCSS
